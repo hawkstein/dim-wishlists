@@ -1,3 +1,9 @@
 title: Liam's Season of Defiance Wishlist
 
-dimwishlist:item=1289796511&perks=839105230,2969185026,671806388,2173046394#notes:Compulsive Reloader combined with Voltshot can't go wrong
+dimwishlist:item=1289796511&perks=839105230,2969185026,671806388,2173046394#notes:Compulsive Reloader combined with Voltshot can't go wrong (Liam's Wishlist)
+
+// circular logic
+dimwishlist:item=2187717691&perks=3661387068,1968497646,968510818,831391274
+
+// coronoch-22
+dimwishlist:item=355382946&perks=839105230,1885400500,2779035018,365154968
