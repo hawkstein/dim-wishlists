@@ -2,7 +2,7 @@ title: Liam's Season of Defiance Wishlist
 
 dimwishlist:item=1289796511&perks=839105230,2969185026,671806388,2173046394#notes:Compulsive Reloader combined with Voltshot can't go wrong (Liam's Wishlist)
 
-// circular logic
+//notes:These rolls for Circular Logic focus on the Hatchling perk, Envious Assassin works well if it's not a DPS MG
 dimwishlist:item=2187717691&perks=3661387068,1968497646,968510818,831391274
 
 // coronoch-22
