@@ -10,3 +10,6 @@ dimwishlist:item=355382946&perks=839105230,1885400500,2779035018,365154968
 
 //notes:Synchronic Roulette's god roll is probably Arrowhead, Ricochet, Envious & Hatchling. MW is personal preference really. (Liam's Wishlist)
 dimwishlist:item=811403305&perks=839105230,1885400500,968510818,831391274
+
+// Max range UT
+dimwishlist:item=2510526114&perks=3250034553,3142289711,2450788523,2458213969,4091460919
