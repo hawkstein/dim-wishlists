@@ -1,4 +1,5 @@
-title: Liam's Echoes: Revenant Wishlist
+title: Rhythmic's Episode:Revenant Wishlist
+description: Sourced from Cool Guy videos, Datto & some personal opinion
 
 //notes: Cool Guy PVP Exuviae recommendations https://www.youtube.com/watch?v=01lYlg_Ahzs
 dimwishlist:item=2823644677&perks=3250034553,3142289711,1955165503,124408337
@@ -9,5 +10,9 @@ dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,2978966579
 dimwishlist:item=2599338624&perks=3525010810,3032599245,880644845,4049631843
 dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,4049631843
 
-// "Live Fire" Stasis Scout
+// "Live Fire" (Stasis Scout)
 dimwishlist:item=3612142623&perks=3661387068,3230963543,1955165503,124408337
+
+// Vesper's Host dungeon weapons
+// "VS Velocity Baton" (Void Denial GL)
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
