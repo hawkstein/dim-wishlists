@@ -1,11 +1,20 @@
-title: Rhythmic's Episode:Revenant Wishlist
-description: Sourced from Cool Guy videos, Datto & some personal opinion
+title: Rhythmic's Episode Revenant Wishlist
+description: Sourced from CoolGuy videos, Datto & some Light.gg info combined with personal opinion
 
-//notes: Cool Guy PVP Exuviae recommendations https://www.youtube.com/watch?v=01lYlg_Ahzs
+// EPISODE REVENANT SEASONAL ACTIVITIES
+
+// "Bitter/Sweet" (Arc Adaptive GL)
+
+// "Chroma Rush" (Kinetic Auto Rifle)
+
+// "Exuviae"
+//notes: CoolGuy PVP recommendations https://www.youtube.com/watch?v=01lYlg_Ahzs
 dimwishlist:item=2823644677&perks=3250034553,3142289711,1955165503,124408337
 dimwishlist:item=2823644677&perks=3250034553,3142289711,2579169598,555281244
 
-// "Liturgy" Special Stasis GL
+// "Ignition Code" (Kinetic GL)
+
+// "Liturgy"  (Stasis Double GL)
 dimwishlist:item=2599338624&perks=981914802,3301904089,1955165503,2978966579
 dimwishlist:item=2599338624&perks=3525010810,3032599245,880644845,4049631843
 dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,4049631843
@@ -13,11 +22,22 @@ dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,4049631843
 // "Live Fire" (Stasis Scout)
 dimwishlist:item=3612142623&perks=3661387068,3230963543,1955165503,124408337
 
-// Vesper's Host dungeon weapons
-// "VS Velocity Baton" (Void Denial GL)
+// "Insurmountable" (Void Sidearm)
+
+// "Noxious Vetiver" (Arc Submachine Gun)
+
+// "Sojourner's Tale" (Solar Shotgun)
+
+// "Veleda-F" (Void Aggressive Sniper)
+
+// VESPER'S HOST DUNGEON
+
+// "VS Gravitic Arrest" (Void Fusion Rifle)
+
+// "VS Velocity Baton" (Void Area Denial GL)
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
 
-// VS Velocity Baton ()
+// "VS Velocity Baton" (Void Area Denial GL)
 dimwishlist:item=1762785663&perks=1478423395,2822142346,776531651,2048641572
 dimwishlist:item=1762785663&perks=1844523823,2822142346,776531651,2048641572
 dimwishlist:item=1762785663&perks=1441682018,2822142346,776531651,2048641572
@@ -25,7 +45,7 @@ dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,2048641572
 dimwishlist:item=1762785663&perks=3798852852,2822142346,776531651,2048641572
 
 
-// VS Velocity Baton ()
+// "VS Velocity Baton" (Void Area Denial GL)
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3108830275,2319119708
 dimwishlist:item=1762785663&perks=1844523823,2822142346,3108830275,2319119708
 dimwishlist:item=1762785663&perks=1441682018,2822142346,3108830275,2319119708
@@ -33,7 +53,7 @@ dimwishlist:item=1762785663&perks=3525010810,2822142346,3108830275,2319119708
 dimwishlist:item=1762785663&perks=3798852852,2822142346,3108830275,2319119708
 
 
-// VS Velocity Baton ()
+// "VS Velocity Baton" (Void Area Denial GL)
 dimwishlist:item=1762785663&perks=1478423395,2822142346,563069569,3673922083
 dimwishlist:item=1762785663&perks=1844523823,2822142346,563069569,3673922083
 dimwishlist:item=1762785663&perks=1441682018,2822142346,563069569,3673922083
@@ -41,7 +61,7 @@ dimwishlist:item=1762785663&perks=3525010810,2822142346,563069569,3673922083
 dimwishlist:item=1762785663&perks=3798852852,2822142346,563069569,3673922083
 
 
-// VS Velocity Baton ()
+// "VS Velocity Baton" (Void Area Denial GL)
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3523296417,243981275
 dimwishlist:item=1762785663&perks=1478423395,2822142346,1870851715,243981275
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3108830275,243981275
@@ -57,3 +77,11 @@ dimwishlist:item=1762785663&perks=3525010810,2822142346,3108830275,243981275
 dimwishlist:item=1762785663&perks=3798852852,2822142346,3523296417,243981275
 dimwishlist:item=1762785663&perks=3798852852,2822142346,1870851715,243981275
 dimwishlist:item=1762785663&perks=3798852852,2822142346,3108830275,243981275
+
+// "VS Chill Inhibitor" (Stasis Rapid-fire GL)
+
+// "VS Pyroelectric Propellant" (Arc Auto Rifle)
+
+// VANGUARD
+
+// "Wicked Sister" (Strand Adaptive GL)
