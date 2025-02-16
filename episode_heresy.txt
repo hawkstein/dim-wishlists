@@ -5,6 +5,6 @@ description: Sourced from YouTube videos & some Light.gg info combined with pers
 
 // "Adamantite" (Strand Support Frame Auto-Rifle)
 
-// notes: Rhythmic's Episode Heresy Wishlist
+// notes: Rhythmic's Episode Heresy Wishlist. With Adamantite I'm looking for the support frame perks mainly. 1st and 2nd column are just to even out the stats.
 dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,2298656195
 dimwishlist:item=3229982889&perks=839105230,3142289711,2621346526,2298656195
